@@ -5,5 +5,7 @@
 * Write `npm start` to run the react app
 
 -Create Cat component 
+
 -Conect the component to App.js
+
 -Use Cat component to display four different cats with different information (picture, name, age)
