@@ -4,7 +4,7 @@
 * Create a react app using `npx create-react-app "folder name"`
 * Write `npm start` to run the react app
 
--Create a Cat component 
+-Create a Cat component using both class and functional component
 
 -Conect the component to you'r App.js
 
